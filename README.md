@@ -1,6 +1,6 @@
 
 </a>
-<p align="center"><p align="center"> <dir="auto"> <img src="https://komarev.com/ghpvc/?username=andrekriegmann&label=rabbitz&color=6b0000&style=plastic"> </dir> </p>
+<p align="center"><p align="center"> <dir="auto"> <img src="https://komarev.com/ghpvc/?username=andrekriegmann&label=rabbitz&color=FFFFFF&style=plastic"> </dir> </p>
   <p align="center"><img width="400" height="400" src="https://github.com/user-attachments/assets/584b3017-c4f7-4739-b3f4-327c27b34596" />
   </p> ‎ ‎ 
   <p align="center">
